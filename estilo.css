@@ -12,3 +12,30 @@ p{
     text-align: center;
 
 }
+
+h2 {
+    font-size: 4em;
+    text-align: center;
+   
+}
+
+.noob {
+    display: flex;
+    justify-content: center;
+}
+.super {
+    color: rgb(255, 221, 162);
+}
+.hiper{
+    color: rgb(255, 209, 124);
+}
+
+.mega{
+    color: rgb(255, 197, 97)
+}
+.epico{
+    color: rgb(255, 182, 56)
+}
+.ycool{
+    color: rgb(255, 162, 0);
+}
