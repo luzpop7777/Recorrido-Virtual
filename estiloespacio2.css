@@ -12,6 +12,15 @@ h1{
     display: flex;
     justify-content: center;
 }
+.stopsign {
+    display: flex;
+    justify-content: center;
+}
+.stopsign iframe {
+    width: min(473px, 100%);
+    aspect-ratio: 9 / 16;
+    border: 0;
+}
 .vuelve1{
     color: rgba(228, 229, 230, 0.355);
 }
