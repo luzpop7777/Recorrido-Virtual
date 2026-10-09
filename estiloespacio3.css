@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(247, 27, 255, 0.631);
+}
+h1{
+    color: rgb(245, 255, 104);
+    text-align: center;
+    font-size: 5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+h3{
+    color: aqua;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.holademonio {
+    display: flex;
+    justify-content: left;
+}
+.sabiasque {
+    display: flex;
+    justify-content: right;
+}
+.vuelve3{
+    color: rgba(255, 0, 0, 0.355);
+}

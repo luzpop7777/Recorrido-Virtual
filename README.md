@@ -7,3 +7,9 @@ Entrega 3, el recorrido virtual más épico hecho por Luzpop7777
 - ya empecé mi primer espacio
 - quiero hacer como espacios de referencias que digo mucho, como cosas sacadas del internet
 - ya puse al grandpa that ate paint, a mí me da mucha risa
+- en el segundo espacio, puse el video que más amo que es el de A BLACK ONE que le da mucha risa a toda mi familia. Lo decimos constantemente sobre cualquier cosa
+- no funcionó poner el video, lo intentamos de nuevo
+- funcionó el video
+- tercer espacio, copy paste del primer espacio, puse las cosas de Hello Kitty Hola Demonio
+- no funcionó el go live
+- ya funcionó
