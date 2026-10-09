@@ -19,3 +19,14 @@ Entrega 3, el recorrido virtual más épico hecho por Luzpop7777
 - funcionó el video, tuve que pedire a copilot y me siento como un asco de persona pero full me quedé sin opción. No me bañaré para contrarrestar el agua que gasté haciendo esas búsquedas. soy hipócrita lo siento lo siento
 - fui también un asco porque le pedí a copilot que me ayudara diciéndome cómo animar el texto para que cambiara de font family. le dije que me dijera cómo hacerlo y él lo hizo por mí o sea yo no le pedí eso y lo sientooo
 - igual quedó chévere entonces avanzaré al último espacio, no sé qué referencia poner
+- cuando alguien dice algo que mas o menos me contradice, siempre diré todos me odiaban, es super épico
+- quise hacerlo de prolly not pero no funcionó el video
+- me decidí y puse a todos me odiaban. excelente
+- animación de tamaño de texto
+- animación de weight del texto
+- volví al espacio 1, le puse un efecto hover al link
+- no funciona de los colores que quise pero algo se logró, hice el efecto
+- estoy mejorando en esto, ya entiendo muuucho más, pero no hay luz en Sopó entonces tengo que dejar así por ahora
+- por lo menos cada espacio tiene como alguna cosita y ya los links al espacio principal ya tienen nombres más chéveres
+- no pude ponerle el bono del sonido o sea realmente no tengo la luz suficiente ni internet o sea estoy haciendo todo lo posible
+- logré eso y estoy como contenta con lo que logré
