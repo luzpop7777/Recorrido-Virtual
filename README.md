@@ -13,3 +13,6 @@ Entrega 3, el recorrido virtual más épico hecho por Luzpop7777
 - tercer espacio, copy paste del primer espacio, puse las cosas de Hello Kitty Hola Demonio
 - no funcionó el go live
 - ya funcionó
+- hecho ya el espacio 3, me da mucha risa la referencia y ya todos lo decimos. Tal cosa es hola demonio. Tal otra es Hola demonio. Universidad es Hola demonio
+- haciendo el de STOP SIGN, lo amo porque mi hermano lo dice cada vez que alguien hace una pregunta y suena en ese tono. Yo igual ahora porque mi hermano no está en el país y lo extraño. 
+- no funciona poner el video de stop sign. voy a copiar lo que hice en espacio 2
