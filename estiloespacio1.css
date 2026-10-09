@@ -1,11 +1,14 @@
 body{
     background-color: rgba(0, 0, 0, 0.631);
 }
+
+
 p{
     color: aliceblue;
     text-align: center;
     font-size: 5em;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
 
 }
 .grandpa {
@@ -14,4 +17,11 @@ p{
 }
 .vuelve1{
     color: rgba(228, 229, 230, 0.355);
+}
+a, 
+a:active {
+    color: white;
+}
+a:hover {
+    color:black;
 }

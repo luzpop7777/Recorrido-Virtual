@@ -16,3 +16,6 @@ Entrega 3, el recorrido virtual más épico hecho por Luzpop7777
 - hecho ya el espacio 3, me da mucha risa la referencia y ya todos lo decimos. Tal cosa es hola demonio. Tal otra es Hola demonio. Universidad es Hola demonio
 - haciendo el de STOP SIGN, lo amo porque mi hermano lo dice cada vez que alguien hace una pregunta y suena en ese tono. Yo igual ahora porque mi hermano no está en el país y lo extraño. 
 - no funciona poner el video de stop sign. voy a copiar lo que hice en espacio 2
+- funcionó el video, tuve que pedire a copilot y me siento como un asco de persona pero full me quedé sin opción. No me bañaré para contrarrestar el agua que gasté haciendo esas búsquedas. soy hipócrita lo siento lo siento
+- fui también un asco porque le pedí a copilot que me ayudara diciéndome cómo animar el texto para que cambiara de font family. le dije que me dijera cómo hacerlo y él lo hizo por mí o sea yo no le pedí eso y lo sientooo
+- igual quedó chévere entonces avanzaré al último espacio, no sé qué referencia poner
